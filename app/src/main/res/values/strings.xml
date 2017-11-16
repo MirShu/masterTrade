@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">外汇行情软件</string>
+    <string name="navigation_navigation_bar">NavigationBar</string>
+    <string name="navigation_tab_host">TabHost</string>
+
+    <string name="item_home">模拟</string>
+    <string name="item_location">快讯</string>
+    <string name="item_like">发现</string>
+    <string name="item_person">我</string>
+    <string name="tv_statement">声明：本站行情数据均来源网络，不构成任何交易建议，基于本站数据进行交易导致损失，我方概不负责。</string>
+
+    <string name="user_from">vivo市场</string>
+    <string name="appNumber">1</string>
+
+</resources>
